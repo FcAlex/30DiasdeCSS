@@ -49,6 +49,6 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-green)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia02)
 
 ### Dia 03 - Mudança de cor de texto quando entra em outra div <a name="day03"></a>
-![icones de mida social](./img/dia02.gif)
+![icones de mida social](./img/dia03.gif)
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-blue)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia03)
