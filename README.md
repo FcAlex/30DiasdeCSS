@@ -9,7 +9,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 01 - Ícone de mídia social em camadas](#day01)
 - [x] [Dia 02 - Loader animado](#day02)
 - [x] [Dia 03 - Mudança de cor de texto quando entra em outra div](#day03)
-- [ ] [Dia 04 - Botão com efeito](#day04)
+- [x] [Dia 04 - Botão com efeito](#day04)
 - [ ] [Dia 05 - Efeito pulsar](#day05)
 - [ ] [Dia 06 - Efeito lightning text](#day06)
 - [ ] [Dia 07 - Preloader animado](#day07)  
@@ -52,3 +52,8 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![icones de mida social](./img/dia03.gif)
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-blue)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia03)
+
+### Dia 04 - Botão com efeito
+![icones de mida social](./img/dia04.gif)
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-yellow)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia04)
