@@ -10,7 +10,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 02 - Loader animado](#day02)
 - [x] [Dia 03 - Mudança de cor de texto quando entra em outra div](#day03)
 - [x] [Dia 04 - Botão com efeito](#day04)
-- [ ] [Dia 05 - Efeito pulsar](#day05)
+- [x] [Dia 05 - Efeito pulsar](#day05)
 - [ ] [Dia 06 - Efeito lightning text](#day06)
 - [ ] [Dia 07 - Preloader animado](#day07)  
 - [ ] [Dia 08 - Coração batendo](#day08)
@@ -53,7 +53,12 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-blue)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia03)
 
-### Dia 04 - Botão com efeito
+### Dia 04 - Botão com efeito <a name="day04"></a>
 ![icones de mida social](./img/dia04.gif)
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-yellow)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia04)
+
+### Dia 05 - Efeito pulsar <a name="day05"></a>
+![icones de mida social](./img/dia05.gif)
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-9cf)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia05)
