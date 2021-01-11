@@ -11,7 +11,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 03 - Mudança de cor de texto quando entra em outra div](#day03)
 - [x] [Dia 04 - Botão com efeito](#day04)
 - [x] [Dia 05 - Efeito pulsar](#day05)
-- [ ] [Dia 06 - Efeito lightning text](#day06)
+- [x] [Dia 06 - Efeito lightning text](#day06)
 - [ ] [Dia 07 - Preloader animado](#day07)  
 - [ ] [Dia 08 - Coração batendo](#day08)
 - [ ] [Dia 09 - Pendulo de Newton](#day09)
@@ -62,3 +62,8 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![icones de mida social](./img/dia05.gif)
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-9cf)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia05)
+
+### Dia 06 - Efeito lightning text <a name="day06"></a>
+![icones de mida social](./img/dia06.gif)
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-ccc)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia06)
