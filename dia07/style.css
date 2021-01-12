@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    background-color: #2980b9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center {
+    width: 150px;
+    height: 150px;
+    position: relative;
+}
+.center div {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 10px;
+    animation: move 2s ease infinite;
+}
+.center div:nth-child(1) {
+    animation-delay: .6s;
+}
+.center div:nth-child(2) {
+    animation-delay: 1.2s;
+}
+@keyframes move {
+    0% {top: 0; left: 0;}
+
+    12.5% { top: 0; left: 50%;}
+
+    25% { top: 0; left: 50%;}
+
+    37.5% { top: 50%; left: 50%;}
+
+    50% { top: 50%; left: 50%;}
+
+    62.5% { top: 50% ; left: 0;}
+
+    75% { top: 50% ; left: 0;}
+
+    82.5% { top: 0; left: 0;}
+
+    100% { top: 0; left: 0;}   
+}
