@@ -13,7 +13,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 05 - Efeito pulsar](#day05)
 - [x] [Dia 06 - Efeito lightning text](#day06)
 - [x] [Dia 07 - Preloader animado](#day07)  
-- [ ] [Dia 08 - Coração batendo](#day08)
+- [x] [Dia 08 - Coração batendo](#day08)
 - [ ] [Dia 09 - Pendulo de Newton](#day09)
 - [ ] [Dia 10 - Animação texto alternando](#day10)
 - [ ] [Dia 11 - Botão com efeito hover](#day11)
@@ -72,3 +72,8 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![icones de mida social](./img/dia07.gif)
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-orange)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia07)
+
+### Dia 08 - Coração batendo <a name="day08"></a>
+![icones de mida social](./img/dia08.gif)
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-black)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia08)
