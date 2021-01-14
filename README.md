@@ -14,7 +14,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 06 - Efeito lightning text](#day06)
 - [x] [Dia 07 - Preloader animado](#day07)  
 - [x] [Dia 08 - Coração batendo](#day08)
-- [ ] [Dia 09 - Pendulo de Newton](#day09)
+- [x] [Dia 09 - Pendulo de Newton](#day09)
 - [ ] [Dia 10 - Animação texto alternando](#day10)
 - [ ] [Dia 11 - Botão com efeito hover](#day11)
 - [ ] [Dia 12 - Efeito de preenchimento ao passar o mouse](#day12)
@@ -77,3 +77,8 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![icones de mida social](./img/dia08.gif)
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-black)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia08)
+
+### Dia 09 - Pendulo de Newton <a name="day09"></a>
+![icones de mida social](./img/dia09.gif)
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-16a085)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia09)
