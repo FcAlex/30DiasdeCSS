@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Press Start 2P', cursive;
+}
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2c3e50;
+}
+.center {
+    font-size: 25pt;
+    color: #fff;
+    position: relative;
+}
+.center::after {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 600; 
+    content: '';
+    animation: animate 3s linear infinite;
+}
+@keyframes animate {
+    0% {
+        content: "\f5fc";
+    }
+    25% {
+        content: "\f236";
+    }
+    50% {
+        content: "\f818";
+    }
+    75% {
+        content: "\f11b";
+    }
+    100% {
+        content: '\f5fc';
+    }
+}
