@@ -19,8 +19,9 @@ body {
     color: #27ae60;
     position: relative;
     cursor: pointer;
-    transition: .5s;
+    transition: .7s;
     overflow: hidden;
+    border-radius: 2px;
 }
 .center button::before {
     content: '';
@@ -31,7 +32,7 @@ body {
     width: 100%;
     height: 0%;
     border-radius: 0 0 40% 40%;
-    transition: all .7s;
+    transition: .7s;
     z-index: -1;
 }
 .center button:hover::before {
