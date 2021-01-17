@@ -17,7 +17,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 09 - Pendulo de Newton](#day09)
 - [x] [Dia 10 - Animação texto alternando](#day10)
 - [x] [Dia 11 - Botão com efeito hover](#day11)
-- [ ] [Dia 12 - Efeito de preenchimento ao passar o mouse](#day12)
+- [x] [Dia 12 - Efeito de preenchimento ao passar o mouse](#day12)
 - [ ] [Dia 13 - Loading com efeito](#day13)
 - [ ] [Dia 14 - Fundo de texto animado](#day14)
 - [ ] [Dia 15 - Texto flutuante](#day15)
@@ -92,3 +92,9 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![icones de mida social](./img/dia11.gif)
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-e74c3c)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia11)
+
+
+### Dia 12 - Efeito de preenchimento ao passar o mouse <a name="day12"></a>
+![icones de mida social](./img/dia12.gif)
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-9b59b6)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia12)
