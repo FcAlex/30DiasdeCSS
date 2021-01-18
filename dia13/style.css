@@ -16,8 +16,8 @@ body {
 }
 .center span {
     letter-spacing: 20px;
-    animation: animate 3s linear infinite;
-    animation-delay: calc(var(--i) * .2s);
+    animation: animate 3.2s linear infinite;
+    animation-delay: calc(var(--i) * .2s + 10s);
     color: #CB356B;
 }
 @keyframes animate {
