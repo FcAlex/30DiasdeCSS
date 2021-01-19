@@ -18,7 +18,7 @@ body {
     background-size: 10%;
     -webkit-background-clip: text;
     color: transparent;
-    animation: animate 10s linear infinite
+    animation: animate 30s linear infinite
 }
 @keyframes animate {
     0% {
