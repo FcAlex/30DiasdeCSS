@@ -102,4 +102,4 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ### Dia 13 - Loading com efeito <a name="day13"></a>
 ![icones de mida social](./img/dia13.gif)
 
-[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-654ea3)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia13)
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-FFC371)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia13)
