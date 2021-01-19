@@ -19,7 +19,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 11 - Botão com efeito hover](#day11)
 - [x] [Dia 12 - Efeito de preenchimento ao passar o mouse](#day12)
 - [x] [Dia 13 - Loading com efeito](#day13)
-- [ ] [Dia 14 - Fundo de texto animado](#day14)
+- [x] [Dia 14 - Fundo de texto animado](#day14)
 - [ ] [Dia 15 - Texto flutuante](#day15)
 - [ ] [Dia 16 - Botão com efeito](#day16)
 - [ ] [Dia 17 - Loader animado](#day17)
@@ -103,3 +103,8 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![icones de mida social](./img/dia13.gif)
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-FFC371)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia13)
+
+### Dia 14 - Fundo de texto animado <a name="day14"></a>
+![icones de mida social](./img/dia14.gif)
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-7efff5)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia14)
