@@ -20,7 +20,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 12 - Efeito de preenchimento ao passar o mouse](#day12)
 - [x] [Dia 13 - Loading com efeito](#day13)
 - [x] [Dia 14 - Fundo de texto animado](#day14)
-- [ ] [Dia 15 - Texto flutuante](#day15)
+- [x] [Dia 15 - Texto flutuante](#day15)
 - [ ] [Dia 16 - Botão com efeito](#day16)
 - [ ] [Dia 17 - Loader animado](#day17)
 - [ ] [Dia 18 - Texto esfumaçado](#day18)
@@ -108,3 +108,8 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![icones de mida social](./img/dia14.gif)
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-7efff5)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia14)
+
+### Dia 15 - Texto flutuante <a name="day15"></a>
+![icones de mida social](./img/dia15.gif)
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-8e44ad)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia15)
