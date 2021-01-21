@@ -21,7 +21,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 13 - Loading com efeito](#day13)
 - [x] [Dia 14 - Fundo de texto animado](#day14)
 - [x] [Dia 15 - Texto flutuante](#day15)
-- [ ] [Dia 16 - Botão com efeito](#day16)
+- [x] [Dia 16 - Botão com efeito](#day16)
 - [ ] [Dia 17 - Loader animado](#day17)
 - [ ] [Dia 18 - Texto esfumaçado](#day18)
 - [ ] [Dia 19 - Efeitos de animação de fundo de partículas](#day19)
@@ -113,3 +113,8 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![icones de mida social](./img/dia15.gif)
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-8e44ad)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia15)
+
+### Dia 16 - Botão com efeito <a name="day16"></a>
+![icones de mida social](./img/dia16.gif)
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-c0392b)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia16)
