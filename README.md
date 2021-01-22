@@ -22,7 +22,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 14 - Fundo de texto animado](#day14)
 - [x] [Dia 15 - Texto flutuante](#day15)
 - [x] [Dia 16 - Botão com efeito](#day16)
-- [ ] [Dia 17 - Loader animado](#day17)
+- [x] [Dia 17 - Loader animado](#day17)
 - [ ] [Dia 18 - Texto esfumaçado](#day18)
 - [ ] [Dia 19 - Efeitos de animação de fundo de partículas](#day19)
 - [ ] [Dia 20 - Botão com efeito](#day20)
@@ -118,3 +118,9 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![icones de mida social](./img/dia16.gif)
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-c0392b)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia16)
+
+
+### Dia 17 - Loader animado <a name="day17"></a>
+![icones de mida social](./img/dia17.gif)
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-ecf0f1)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia17)

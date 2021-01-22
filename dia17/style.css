@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #34495e;
+}
+.square {
+    background-color: #27ae60;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    animation: loading 3s linear infinite;
+}
+@keyframes loading {
+    0% {
+        transform: rotateY(0deg);
+    }
+    50% {
+        transform: rotateY(180deg);
+    }
+    100% {
+        transform: rotateZ(180deg);
+    }
+}
