@@ -47,6 +47,7 @@ body {
     background-color: #f00;
     border-radius: 50%;
     animation: colors 4s linear infinite;
+    filter: blur(2px);
 }
 @keyframes colors {
     0%,100% {

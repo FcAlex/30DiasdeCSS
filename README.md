@@ -24,7 +24,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 16 - Botão com efeito](#day16)
 - [x] [Dia 17 - Loader animado](#day17)
 - [x] [Dia 18 - Texto esfumaçado](#day18)
-- [ ] [Dia 19 - Efeitos de animação de fundo de partículas](#day19)
+- [x] [Dia 19 - Efeitos de animação de fundo de partículas](#day19)
 - [ ] [Dia 20 - Botão com efeito](#day20)
 - [ ] [Dia 21 - Esferas quicando](#day21)
 - [ ] [Dia 22 - Icones com efeito](#day22)
@@ -129,3 +129,8 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![icones de mida social](./img/dia18.gif)
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-fff)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia18)
+
+### Dia 19 - Efeitos de animação de fundo de partículas <a name="day19"></a>
+![icones de mida social](./img/dia19.gif) 
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-e17055)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia19)
