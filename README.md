@@ -26,7 +26,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 18 - Texto esfumaçado](#day18)
 - [x] [Dia 19 - Efeitos de animação de fundo de partículas](#day19)
 - [x] [Dia 20 - Botão com efeito](#day20)
-- [ ] [Dia 21 - Esferas quicando](#day21)
+- [x] [Dia 21 - Esferas quicando](#day21)
 - [ ] [Dia 22 - Icones com efeito](#day22)
 - [ ] [Dia 23 - Botão com efeito hover](#day23)
 - [ ] [Dia 24 - Preloader animado](#day24)
@@ -139,3 +139,8 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![icones de mídia social](./img/dia20.gif) 
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-000)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia20)
+
+### Dia 21 - Esferas quicando <a name="day21"></a>
+![icones de mídia social](./img/dia21.gif) 
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-green)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia21)
