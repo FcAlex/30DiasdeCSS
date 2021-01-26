@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    background-color: #202020;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center {
+    width: 150px;
+    height: 150px;
+    border-bottom: 7px solid #fff;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.center div {
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 50%;
+    animation: animate 1.5s ease-in-out infinite calc(var(--i) * 0.3s);
+}
+@keyframes animate {
+    0%,100% {
+        transform: translateY(1px);
+    }
+    50% {
+        transform: translateY(-100px);
+    }  
+}
