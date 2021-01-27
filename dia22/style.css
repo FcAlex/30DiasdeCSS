@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #000;
+    width: 90px;
+    height: 90px;
+    cursor: pointer;
+    margin: 0 10px;
+    border-radius: 50%;
+    position: relative;
+    transition: all .5s linear;
+}
+.center span i {
+    z-index: 1;
+    font-size: 40px;
+}
+.center span:hover i {
+    color: #ffffff;
+}
+.center span::before {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    border-radius: 50%;
+    transition: all .5s linear;
+    z-index: -1;
+}
+.center span:hover::before {
+    transform:scale(.7);
+    background-color: #000;
+}
+.center span::after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    border: 2px dashed #000;
+    position: absolute;
+    border-radius: 50%;
+    transition: all .35s linear;
+}
+.center span:hover::after {
+    animation: rotate 5s linear infinite;
+}
+@keyframes rotate {
+    0% { transform:scale(0.85) rotate(0deg); }
+    100% { transform:scale(0.85) rotate(360deg); }
+}
