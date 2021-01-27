@@ -27,7 +27,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 19 - Efeitos de animação de fundo de partículas](#day19)
 - [x] [Dia 20 - Botão com efeito](#day20)
 - [x] [Dia 21 - Esferas quicando](#day21)
-- [ ] [Dia 22 - Icones com efeito](#day22)
+- [x] [Dia 22 - Icones com efeito](#day22)
 - [ ] [Dia 23 - Botão com efeito hover](#day23)
 - [ ] [Dia 24 - Preloader animado](#day24)
 - [ ] [Dia 25 - Checkbox animado](#day25)
@@ -144,3 +144,8 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![icones de mídia social](./img/dia21.gif) 
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-green)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia21)
+
+### Dia 22 - Icones com efeito <a name="day22"></a>
+![icones de mídia social](./img/dia22.gif) 
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-red)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia22)
