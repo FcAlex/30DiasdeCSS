@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #34495e;
+}
+.btn {
+    padding: 20px 60px;
+    font-size: 22pt;
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid #fff;
+    cursor: pointer;
+    transition: .2s;
+}
+.btn:hover {
+    animation: animate .5s ease-in-out 1;
+    color: #1abc9c;
+    border-color: #1abc9c;
+}
+@keyframes animate {
+    0%, 100% {
+        transform: rotate(0deg);
+    }
+    33% {
+        transform: rotate(10deg);
+    }
+    66% {
+        transform: rotate(-10deg);
+    }
+}
