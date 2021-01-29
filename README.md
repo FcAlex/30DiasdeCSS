@@ -29,7 +29,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 21 - Esferas quicando](#day21)
 - [x] [Dia 22 - Icones com efeito](#day22)
 - [x] [Dia 23 - Botão com efeito hover](#day23)
-- [ ] [Dia 24 - Preloader animado](#day24)
+- [x] [Dia 24 - Preloader animado](#day24)
 - [ ] [Dia 25 - Checkbox animado](#day25)
 - [ ] [Dia 26 - Loading com efeito](#day26)
 - [ ] [Dia 27 - Efeito pulsar](#day27)
@@ -154,3 +154,8 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![icones de mídia social](./img/dia23.gif) 
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-blue)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia23)
+
+### Dia 24 - Preloader animado <a name="day23"></a>
+![icones de mídia social](./img/dia24.gif) 
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-blue)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia24)
