@@ -155,7 +155,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-blue)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia23)
 
-### Dia 24 - Preloader animado <a name="day23"></a>
+### Dia 24 - Preloader animado <a name="day24"></a>
 ![icones de mídia social](./img/dia24.gif) 
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-blue)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia24)
