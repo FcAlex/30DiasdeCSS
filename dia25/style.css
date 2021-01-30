@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #222;
+}
+input[type='checkbox'] {
+    opacity: 0;
+}
+label {
+    font-size: 23pt;
+    margin: 0 10px;
+    cursor: pointer;
+    color: #ccc;
+}
+label input[type='checkbox']:checked ~ .bi {
+    animation: animate 5s linear infinite;
+    color: #2980b9;
+}
+@keyframes animate {
+    from {
+        filter: hue-rotate(0deg);
+    }
+    to {
+        filter: hue-rotate(360deg);
+    }
+}
