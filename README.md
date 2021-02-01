@@ -31,7 +31,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 23 - Botão com efeito hover](#day23)
 - [x] [Dia 24 - Preloader animado](#day24)
 - [x] [Dia 25 - Checkbox animado](#day25)
-- [ ] [Dia 26 - Loading com efeito](#day26)
+- [x] [Dia 26 - Loading com efeito](#day26)
 - [ ] [Dia 27 - Efeito pulsar](#day27)
 - [ ] [Dia 28 - Cor do background mudando](#day28)
 - [ ] [Dia 29 - Menu responsivo com Media Queries](#day29)
@@ -158,9 +158,14 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ### Dia 24 - Preloader animado <a name="day24"></a>
 ![Imagem do dia](./img/dia24.gif) 
 
-[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-blue)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia24)
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-e67e22)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia24)
 
 ### Dia 25 - Checkbox animado <a name="day25"></a>
 ![Image do dia](./img/dia25.gif) 
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-white)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia25)
+
+### Dia 26 - Loading com efeito <a name="day26"></a>
+![Image do dia](./img/dia26.gif) 
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-2c3e50)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia26)
