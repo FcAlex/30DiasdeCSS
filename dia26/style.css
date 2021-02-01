@@ -15,7 +15,7 @@ body {
     transform-origin: bottom;
     transform: rotateZ(-20deg);
     position: relative;
-    animation: rotate 3s linear infinite;
+    animation: rotate 4s linear infinite;
 }
 i {
     position: absolute;
@@ -23,7 +23,7 @@ i {
     bottom: -4px;
     font-size: 30pt;
     color: #fff;
-    animation: rotateHexagon 3s ease-in-out infinite;
+    animation: rotateHexagon 4s ease-in-out infinite;
 }
 @keyframes rotateHexagon {
     0%, 100% {
