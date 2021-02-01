@@ -32,7 +32,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 24 - Preloader animado](#day24)
 - [x] [Dia 25 - Checkbox animado](#day25)
 - [x] [Dia 26 - Loading com efeito](#day26)
-- [ ] [Dia 27 - Efeito pulsar](#day27)
+- [x] [Dia 27 - Efeito pulsar](#day27)
 - [ ] [Dia 28 - Cor do background mudando](#day28)
 - [ ] [Dia 29 - Menu responsivo com Media Queries](#day29)
 - [ ] [Dia 30 - Fogos de artificio](#day30)
@@ -169,3 +169,8 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![Image do dia](./img/dia26.gif) 
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-2c3e50)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia26)
+
+### Dia 27 - Efeito pulsar <a name="day27"></a>
+![Image do dia](./img/dia27.gif)
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-3498db)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia27)
