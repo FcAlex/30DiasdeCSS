@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35pt;
+    font-weight: 900;
+    text-shadow: 2px 2px 5px #000000aa;
+    color: white;
+    animation: animate 7s linear infinite;
+}
+@keyframes animate {
+    0%, 100% {
+        background-color: #c0392b;
+    }
+    25% {
+        background-color: #27ae60;
+    }
+    50% {
+        background-color: #2980b9;
+    }
+    75% {
+        background-color: #2c3e50;
+    }
+}
