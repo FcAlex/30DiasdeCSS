@@ -34,7 +34,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 26 - Loading com efeito](#day26)
 - [x] [Dia 27 - Efeito pulsar](#day27)
 - [x] [Dia 28 - Cor do background mudando](#day28)
-- [ ] [Dia 29 - Menu responsivo com Media Queries](#day29)
+- [x] [Dia 29 - Menu responsivo com Media Queries](#day29)
 - [ ] [Dia 30 - Fogos de artificio](#day30)
 
 
@@ -179,3 +179,8 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![Image do dia](./img/dia28.gif)
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-e74c3c)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia28)
+
+### Dia 29 - Menu responsivo com Media Queries <a name="day29"></a>
+![Image do dia](./img/dia29.gif)
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-9b59b6)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia29)
