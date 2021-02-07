@@ -35,7 +35,7 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 - [x] [Dia 27 - Efeito pulsar](#day27)
 - [x] [Dia 28 - Cor do background mudando](#day28)
 - [x] [Dia 29 - Menu responsivo com Media Queries](#day29)
-- [ ] [Dia 30 - Fogos de artificio](#day30)
+- [x] [Dia 30 - Fogos de artificio](#day30)
 
 
 ### Dia 01 - Ícone de mídia social em camadas <a name="day01"></a>
@@ -184,3 +184,8 @@ Idealizadora do desafio: [Milena Carecho](https://github.com/MilenaCarecho).
 ![Image do dia](./img/dia29.gif)
 
 [![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-9b59b6)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia29)
+
+### Dia 30 - Fogos de artificio <a name="day30"></a>
+![Image do dia](./img/dia30.gif)
+
+[![](https://img.shields.io/badge/-Meu%20C%C3%B3digo-333333)](https://github.com/FcAlex/30DiasdeCSS/tree/master/dia30)
